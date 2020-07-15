@@ -1,25 +1,32 @@
 body{
-  background-color:#eaf6f6;
+  background-color:white;
   font-family: 'Quicksand', sans-serif;
 }
 hr{
   border-style: dotted none none;
-  border-color: grey;
-  border-width: 5px;
-  width: 5%;
+  border-color: #66bfbf;
+  border-width: 6px;
+  width: 10%;
 }
+
 a{
   text-decoration-line: none;
   font-family: 'Noto Sans JP', sans-serif;
 }
 h1{
-  color: #66bfbf;
+  color: #06623b;
   font-family: 'Montserrat', sans-serif;
 }
 h3{
-  color: #66bfbf;
+  color: #06623b;
   font-family: 'Montserrat', sans-serif;
 }
+a{
+  color:#454d66;
+}
+a:visited{
+  color:#fd5e53;
+}
 a:hover{
-  color: red;
+  color: #66bfbf;
 }
