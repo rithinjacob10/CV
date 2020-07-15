@@ -22,12 +22,9 @@ h3{
   color: #06623b;
   font-family: 'Montserrat', sans-serif;
 }
-a{
-  
-}
 a:visited{
-  color:#fd5e53;
+  color:#e7305b;
 }
 a:hover{
-  color: #66bfbf;
+  color: #ff4301;
 }
