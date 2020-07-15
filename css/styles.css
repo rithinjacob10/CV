@@ -10,6 +10,7 @@ hr{
 }
 
 a{
+  text-decoration-color: #454d66;
   text-decoration-line: none;
   font-family: 'Noto Sans JP', sans-serif;
 }
@@ -22,7 +23,7 @@ h3{
   font-family: 'Montserrat', sans-serif;
 }
 a{
-  color:#454d66;
+  
 }
 a:visited{
   color:#fd5e53;
